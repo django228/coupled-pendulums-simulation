@@ -20,12 +20,7 @@ This project numerically solves and visualizes the motion of a damped two-pendul
 
 The equations of motion for small angles:
 
-\[
-mL^2 \ddot{\theta}_1 + \beta L^2 \dot{\theta}_1 + mgL \theta_1 + k L_1^2 (\theta_1 - \theta_2) = 0
-\]
-\[
-mL^2 \ddot{\theta}_2 + \beta L^2 \dot{\theta}_2 + mgL \theta_2 + k L_1^2 (\theta_2 - \theta_1) = 0
-\]
+<pre> mL² θ̈₁ + βL² θ̇₁ + mgL θ₁ + kL₁²(θ₁ - θ₂) = 0 mL² θ̈₂ + βL² θ̇₂ + mgL θ₂ + kL₁²(θ₂ - θ₁) = 0 </pre>
 
 ---
 
